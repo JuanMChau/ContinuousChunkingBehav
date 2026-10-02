@@ -33,3 +33,5 @@ R (v4.4.1) was accessed through rpy2, and was used for statistical analyses via 
 ## jlib
 
 This repository includes a frozen snapshot of jlib in `analysis/`. It is the exact version used for the analyses in the paper and is not maintained here. Do not replace it with other future versions of jlib.
+
+Please keep in mind the R wrapper for statistical tests requires specifying the path to your R folder.
