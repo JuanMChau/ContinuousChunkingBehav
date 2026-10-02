@@ -6,7 +6,7 @@ Code for [**Chunking improves working memory via compression, not direct retriev
 
 [Juan M. Chau](https://scholar.google.com/citations?hl=en&user=UA1kLj8AAAAJ)<sup>a</sup>, Joel Shebioba<sup>a</sup>, Anna Pitt<sup>a</sup>, [Matias J. Ison](https://scholar.google.co.uk/citations?user=2ULGtf8AAAAJ&hl=en)<sup>a</sup>, [Nicholas E. Myers](https://scholar.google.com/citations?user=4Ac4HK8AAAAJ&hl=en)<sup>a,b</sup><br><br>
 <sup>a</sup> School of Psychology, University of Nottingham, Nottingham, UK<br>
-<sup>d</sup> Department of Experimental Psychology & Oxford Centre for Human Brain Activity, University of Oxford, Oxford, UK<br>
+<sup>b</sup> Department of Experimental Psychology & Oxford Centre for Human Brain Activity, University of Oxford, Oxford, UK<br>
 
 ## Instructions
 
