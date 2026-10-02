@@ -29,3 +29,7 @@ Python code was run on version 3.9.13
 | scikit-learn | 1.6.1 |
 
 R (v4.4.1) was accessed through rpy2, and was used for statistical analyses via the [jmv v2.5.6](https://cran.r-project.org/web/packages/jmv/index.html) package
+
+## jlib
+
+This repository includes a frozen snapshot of jlib in `analysis/`. It is the exact version used for the analyses in the paper and is not maintained here. Do not replace it with other future versions of jlib.
