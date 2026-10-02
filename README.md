@@ -26,6 +26,6 @@ Python code was run on version 3.9.13
 | rpy2 | 3.5.17 |
 | scipy | 1.13.1 |
 | seaborn | 0.13.2 |
-| sklearn | 1.6.1 |
+| scikit-learn | 1.6.1 |
 
-R (v4.4.1) was accessed through rpy2, and performed statistical analyses using the [jmv v2.5.6](https://cran.r-project.org/web/packages/jmv/index.html) package
+R (v4.4.1) was accessed through rpy2, and was used for statistical analyses via the [jmv v2.5.6](https://cran.r-project.org/web/packages/jmv/index.html) package
